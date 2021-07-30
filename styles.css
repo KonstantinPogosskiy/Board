@@ -14,15 +14,15 @@ body {
 
 .container {
   display: flex;
-  justify-content: center;
   align-items: center;
-  max-width: 620px;
+  justify-content: center;
+  max-width: 640px;
   flex-wrap: wrap;
 }
 
 .square {
-  width: 15px;
-  height: 15px;
+  width: 12px;
+  height: 12px;
   background: #1d1d1d;
   margin: 0;
   box-shadow: 0 0 200px #1d1d1d;
